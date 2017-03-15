@@ -1,2 +1,1 @@
-# paddlepaddleLearn
-这里是一些paddlepaddle的学习资料，以及学习心得
+# PaddlePaddleLearn
